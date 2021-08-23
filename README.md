@@ -1,3 +1,2 @@
 # javaprogram
-
-Practice program.
+Abstract class example.
